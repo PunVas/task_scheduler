@@ -1,0 +1,12 @@
+{
+  "total_tasks": 20,
+  "avg_wait_time": 0.6042677640914917,
+  "avg_execution_time": 0.3796148419380188,
+  "throughput": 9.399783085583483,
+  "avg_cpu_usage": 1.5166666666666666,
+  "priority_breakdown": {
+    "HIGH": 5,
+    "MEDIUM": 8,
+    "LOW": 7
+  }
+}
