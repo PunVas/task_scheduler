@@ -1,13 +1,10 @@
-# test script for my scheduler
-# does this thing actually work?
-
 import time
 import random
 # lazy import, i know
 from task_scheduler import *
 
 # ---
-# test jobs
+#test jobs
 # ---
 
 def cpu_task(num, dur):
